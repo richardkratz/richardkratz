@@ -1,4 +1,4 @@
-# Test Automation // Software Engineering
+**Test Automation // Software Engineering**
 
 :iphone: +49 151 20722274
 
